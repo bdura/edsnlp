@@ -17,7 +17,7 @@ dans 1 mois.
     added to respect the layout during the edition of the PDF.
 
 The aim of this tutorial is to train a unsupervised model to detect this _false endlines_ and to use it for inference.
-The implemented model is based on the work of Zweigenbaum et al[@zweigenbaum2016].
+The implemented model is based on the work of [@zweigenbaum2016].
 
 ## Training the model
 
